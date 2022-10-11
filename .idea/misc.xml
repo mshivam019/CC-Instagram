@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shivam/WorkFolder/Personal/Android/Compose/ComposeInstagramClone/app/src/main/res/drawable-night/ic_back_arrow.xml" value="0.129" />
+        <entry key="..\:/Users/shivam/WorkFolder/Personal/Android/Compose/ComposeInstagramClone/app/src/main/res/drawable-night/ic_back_arrow_night.xml" value="0.129" />
+        <entry key="..\:/Users/shivam/WorkFolder/Personal/Android/Compose/ComposeInstagramClone/app/src/main/res/drawable-night/ic_instagram_logo__1_.xml" value="0.1" />
+        <entry key="..\:/Users/shivam/WorkFolder/Personal/Android/Compose/ComposeInstagramClone/app/src/main/res/drawable-night/ic_user.xml" value="0.129" />
+        <entry key="..\:/Users/shivam/WorkFolder/Personal/Android/Compose/ComposeInstagramClone/app/src/main/res/drawable/bg_splash.xml" value="0.129" />
+        <entry key="..\:/Users/shivam/WorkFolder/Personal/Android/Compose/ComposeInstagramClone/app/src/main/res/drawable/ic_back_arrow.xml" value="0.129" />
+        <entry key="..\:/Users/shivam/WorkFolder/Personal/Android/Compose/ComposeInstagramClone/app/src/main/res/drawable/ic_meta.xml" value="0.129" />
+        <entry key="..\:/Users/shivam/WorkFolder/Personal/Android/Compose/ComposeInstagramClone/app/src/main/res/drawable/ic_user.xml" value="0.1" />
+        <entry key="..\:/Users/shivam/WorkFolder/Personal/Android/Compose/ComposeInstagramClone/app/src/main/res/layout/activity_splash.xml" value="0.23645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
