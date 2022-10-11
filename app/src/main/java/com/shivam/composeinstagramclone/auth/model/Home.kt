@@ -21,7 +21,7 @@ data class Story(
 
 val names = arrayOf(
     "Shivam",
-    "Mansi",
+    "Anuj",
     "Samson",
     "Prajwal",
     "Arijit",
