@@ -3,49 +3,31 @@
 Android Instagram clone built with Jetpack Compose
 
 ## Screenshots
-<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light1.jpg
-" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark1.jpg
-" width="200">
+<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light1.jpg" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark1.jpg" width="200">
 
 
-<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light2.jpg
-" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark2.jpg
-" width="200">
+<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light2.jpg" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark2.jpg" width="200">
 
 
-<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light3.jpg
-" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark3.jpg
-" width="200">
+<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light3.jpg" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark3.jpg" width="200">
 
 
-<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light4.jpg
-" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark4.jpg
-" width="200">
+<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light4.jpg" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark4.jpg" width="200">
 
 
-<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light5.jpg
-" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark5.jpg
-" width="200">
+<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light5.jpg" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark5.jpg" width="200">
 
 
-<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light1.jpg
-" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark1.jpg
-" width="200">
+<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light1.jpg" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark1.jpg" width="200">
 
 
-<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light6.jpg
-" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark6.jpg
-" width="200">
+<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light6.jpg" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark6.jpg" width="200">
 
 
-<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light7.jpg
-" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark7.jpg
-" width="200">
+<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light7.jpg" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark7.jpg" width="200">
 
 
-<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light8.jpg
-" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark8.jpg
-" width="200">
+<img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/light8.jpg" width="200"> <img src="https://github.com/mshivam019/InstagramClone/blob/master/screenshots/dark8.jpg" width="200">
 
 
 ## Tech Stack.
