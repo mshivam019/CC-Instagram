@@ -43,12 +43,12 @@ With the usage of Kotlin and Android Jetpack Compose, cloning the various featur
 
 ## Functionality & Concepts used
 
-*Login/Sign-up
-*Cloud-Database
-*Explore page
-*Reels page
-*Activity page
-*Profile page
+- Login/Sign-up
+- Cloud-Database
+- Explore page
+- Reels page
+- Activity page
+- Profile page
 
 The app has a functional login/sign up feature using Firebase Auth (Confirmation mail may go to spam section), Firestore is used to store user's data and display the details in the profile section of the app. The user can watch videos in the reel section which works with the help of EXOPlayer and the explore page images are loaded using an api with the help of Retrofit and coil, Dagger-Hilt is used for dependency injection, Lifecycle, ViewModel, Kotlin Coroutines with Flow is used for clean app building. 
 
